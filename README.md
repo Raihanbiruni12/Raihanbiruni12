@@ -15,5 +15,5 @@ Saya adalah seorang Fullstack Web Developer yang antusias merancang arsitektur s
 
 ### 📫 Let's Connect!
 - **Portfolio:** [raihnbr.gt.tc](https://raihnbr.gt.tc)
-- **LinkedIn:** [Tulis tautan LinkedIn aslimu di sini]
+- **LinkedIn:** [https://linkedin.com/in/raihan-biruni/]
 - **Email:** [biruni53@gmail.com]
