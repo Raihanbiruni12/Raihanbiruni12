@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Raihan Biruni! 👋
 
-<!--
-**Raihanbiruni12/Raihanbiruni12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang Fullstack Web Developer yang antusias merancang arsitektur sistem yang solid dan membangun antarmuka pengguna yang responsif. Saya berfokus pada penyelesaian masalah operasional dunia nyata melalui penulisan kode yang terstruktur dan pengembangan solusi perangkat lunak *end-to-end*.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Back-End:** PHP (Laravel), Python (Flask)
+- **Front-End:** JavaScript, HTML, CSS, Bootstrap
+- **Database:** MySQL
+- **Design & Architecture:** UI/UX Design, PlantUML, draw.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Sistem Informasi Pendistribusian Zakat:** Aplikasi web terintegrasi untuk mendigitalisasi pencatatan dan mengoptimalkan pelaporan operasional distribusi zakat.
+- **Web-Based Expert System:** Aplikasi web yang memadukan logika komputasi kompleks (*Certainty Factor*) dengan arsitektur web modern (Flask & Bootstrap) untuk identifikasi penyakit secara interaktif.
+- **Buku Tamu Digital Desa Cangkoak:** Sistem manajemen data pengunjung desa berbasis web untuk efisiensi administrasi harian.
+
+### 📫 Let's Connect!
+- **Portfolio:** [raihnbr.gt.tc](https://raihnbr.gt.tc)
+- **LinkedIn:** [Tulis tautan LinkedIn aslimu di sini]
+- **Email:** [biruni53@gmail.com]
