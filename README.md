@@ -37,4 +37,4 @@ Saya adalah seorang **Fullstack Web Developer** yang berdedikasi dalam merancang
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-raihnbr.gt.tc-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://raihnbr.gt.tc) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihan-biruni/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biruni53@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raihnbr.id@gmail.com)
